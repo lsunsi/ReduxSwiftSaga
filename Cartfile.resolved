@@ -1,0 +1,4 @@
+github "Quick/Nimble" "v4.1.0"
+github "Quick/Quick" "v0.9.3"
+github "lsunsi/ReduxSwift" "v1.0.0"
+github "tidwall/Safe" "1.2.1"
